@@ -1,0 +1,22 @@
+body{
+    background-color: rgb(100, 100, 100);
+    color: white;
+}
+.titulo{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+#imgleo{
+    height: 500px;
+    width: 500px;
+    border-radius: 50%;
+    object-fit: cover;
+    object-position: top;
+}
+#texto{
+    background-color: white;
+    color: black;
+    border: solid 1px white;
+    border-radius: 100px;
+    padding: 4%;
+    box-shadow: 10px 10px 20px #000000;
+}
